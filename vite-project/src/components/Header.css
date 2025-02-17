@@ -1,0 +1,26 @@
+.header {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 44px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: black;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 0.6;
+}
